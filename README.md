@@ -3,17 +3,17 @@
 Luminance PHPBlade is a lightweight templating engine built in PHP, inspired by Laravel's Blade templating system. It allows you to separate your application's logic from the presentation layer using clear, easy-to-use syntax.
 ## Badges
 
-[![Latest Stable Version](https://poser.pugx.org/seymennc/php-blade/v?style=for-the-badge)](https://packagist.org/packages/seymennc/asgard)
+[![Latest Stable Version](https://poser.pugx.org/seymennc/php-blade/v?style=for-the-badge)](https://packagist.org/packages/seymennc/php-blade)
 
-[![Total Downloads](https://poser.pugx.org/seymennc/php-blade/downloads?style=for-the-badge)](https://packagist.org/packages/seymennc/asgard)
+[![Total Downloads](https://poser.pugx.org/seymennc/php-blade/downloads?style=for-the-badge)](https://packagist.org/packages/seymennc/php-blade)
 
-[![Latest Unstable Version](https://poser.pugx.org/seymennc/php-blade/v/unstable?style=for-the-badge)](https://packagist.org/packages/seymennc/asgard)
+[![Latest Unstable Version](https://poser.pugx.org/seymennc/php-blade/v/unstable?style=for-the-badge)](https://packagist.org/packages/seymennc/php-blade)
 
-[![License](https://poser.pugx.org/seymennc/php-blade/license?style=for-the-badge)](https://packagist.org/packages/seymennc/asgard)
+[![License](https://poser.pugx.org/seymennc/php-blade/license?style=for-the-badge)](https://packagist.org/packages/seymennc/php-blade)
 
-[![PHP Version Require](https://poser.pugx.org/seymennc/php-blade/require/php?style=for-the-badge)](https://packagist.org/packages/seymennc/asgard)
+[![PHP Version Require](https://poser.pugx.org/seymennc/php-blade/require/php?style=for-the-badge)](https://packagist.org/packages/seymennc/php-blade)
 
-[![Version](https://poser.pugx.org/seymennc/php-blade/version?style=for-the-badge)](https://packagist.org/packages/seymennc/asgard)
+[![Version](https://poser.pugx.org/seymennc/php-blade/version?style=for-the-badge)](https://packagist.org/packages/seymennc/php-blade)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://seymencayir.com.tr/)
