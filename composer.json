@@ -1,0 +1,20 @@
+{
+    "name": "seymennc/php-blade",
+    "autoload": {
+        "psr-4": {
+            "Luminance\\Service\\phpblade\\": "./"
+        },
+        "files": [
+            "app/Helpers/Helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Seymen Çayır",
+            "email": "seymencayir429@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
